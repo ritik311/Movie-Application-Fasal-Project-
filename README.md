@@ -51,22 +51,7 @@ Welcome to the Movie App! This web application is designed to provide you with a
 
 
 
-## Contribute and Make the App More Efficient ⚡️
 
-We welcome contributions to make the Movie App even better and more efficient. Here's how you can contribute:
-
-1. **Bug Fixes**: If you come across any bugs or issues while using the app, please report them on the GitHub repository's issue tracker. Be sure to provide detailed steps to reproduce the problem.
-
-2. **Enhancements**: Have an idea for a new feature or an improvement to existing functionalities? Feel free to open a pull request with your proposed changes. We appreciate your creativity and innovation!
-
-3. **Performance Optimization**: As the app grows, optimizing its performance becomes crucial. If you have suggestions for enhancing the app's speed or efficiency, we'd love to hear them. Open a discussion on the repository or submit a pull request with your optimizations.
-
-4. **Code Reviews**: Help review and improve the codebase. By providing constructive feedback, you can help maintain code quality and identify potential improvements.
-
-Together, we can make the Movie App an even more powerful and efficient platform for movie enthusiasts worldwide.
-
-
-Feel free to explore the repository, contribute, and make the most of this feature-rich movie information hub!
 
 
 
@@ -78,9 +63,9 @@ Feel free to explore the repository, contribute, and make the most of this featu
 If you want to contact me, you can reach me through below handles.
 
  <p align="left">
-  <a href="https://www.linkedin.com/in/shubham-bhati-787319213/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
-  <a title="shubhambhati226@gmail.com" href="mailto:shubhambhati226@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
-  <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
+  <a href="https:https://www.linkedin.com/in/ritik-ranjan-b1245119a/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a title="ranjan.ritik2024@gmail.com" href="mailto:ranjan.ritik2024@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+  <a href="https://wa.me/8929832647" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
  </p>
 
 <br>
