@@ -63,7 +63,7 @@ Welcome to the Movie App! This web application is designed to provide you with a
 If you want to contact me, you can reach me through below handles.
 
  <p align="left">
-  <a href="https:https://www.linkedin.com/in/ritik-ranjan-b1245119a/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a href="https://www.linkedin.com/in/ritik-ranjan-b1245119a/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
   <a title="ranjan.ritik2024@gmail.com" href="mailto:ranjan.ritik2024@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
   <a href="https://wa.me/8929832647" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
  </p>
